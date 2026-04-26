@@ -1,4 +1,4 @@
-# DataWiki
+# Ayric Claude
 
 Your compiled knowledge base for Microsoft Fabric + Power BI work. Built on Karpathy's llm-wiki pattern using Astro-Han's Agent Skill.
 
