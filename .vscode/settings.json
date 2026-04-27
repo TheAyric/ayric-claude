@@ -1,5 +1,6 @@
 {
     "powerquery.client.additionalSymbolsDirectories": [
         "c:/Users/ayric.dierenfeld/Obsidian/Claude/DataWiki/.vscode/excel-pq-symbols"
-    ]
+    ],
+    "sarif-viewer.connectToGithubCodeScanning": "off"
 }

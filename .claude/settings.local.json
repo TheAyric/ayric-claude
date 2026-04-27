@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(cp -r /c/Users/Ayric/.Obsidian/Ayric/Claude_old/Shared /c/Users/Ayric/.repos/ayric-claude/)",
+      "Bash(cp -r /c/Users/Ayric/.Obsidian/Ayric/Claude_old/dynamic-pptx-designer /c/Users/Ayric/.repos/ayric-claude/)",
+      "Bash(cp '/c/Users/Ayric/.Obsidian/Ayric/Claude_old/Voice-and-Style Interview Prompt.md' /c/Users/Ayric/.repos/ayric-claude/)",
+      "Bash(cp '/c/Users/Ayric/.Obsidian/Ayric/Claude_old/Guide to Configuring Claude Cowork.md' /c/Users/Ayric/.repos/ayric-claude/)",
+      "Bash(cp /c/Users/Ayric/.Obsidian/Ayric/Claude_old/Compex/team-roster.md /c/Users/Ayric/.repos/ayric-claude/Compex/)",
+      "Bash(bash *)"
+    ]
+  }
+}
